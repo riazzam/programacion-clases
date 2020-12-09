@@ -1,6 +1,8 @@
 package ejemplos.editoriales;
 
 public class Main {
+	
+	
 
 	public static void main(String[] args) {
 		Editorial e1=new Editorial(1, "Salamandra",1975);
